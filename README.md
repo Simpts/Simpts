@@ -27,7 +27,6 @@ I'm a full-stack developer from Sweden. 🇸🇪  When I'm not programming, I en
 ### 📚 Current projects and interests
 Some of the things I'm currently working on include: 
 
-- Applying topic modeling to note taking
 - Electron and developing hybrid apps in general
 - Exploring data structures and algorithms in C
 - Getting AWS certified
