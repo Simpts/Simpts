@@ -3,13 +3,12 @@
 
 I'm a full-stack developer from Sweden. 🇸🇪  When I'm not programming, I enjoy music, biking, and reading [obscure Wikipedia articles](https://en.wikipedia.org/wiki/Wikipedia:Unusual_articles).
 
-## Languages I work with
+## Languages I've worked with
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?style=for-the-badge&logo=JavaScript)
 ![Python](https://img.shields.io/badge/-Python-000?style=for-the-badge&logo=Python)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000?style=for-the-badge&logo=TypeScript)
 ![SQL](https://img.shields.io/badge/-SQL-000?style=for-the-badge&logo=PostgreSQL)
-![PHP](https://img.shields.io/badge/-PHP-000?style=for-the-badge&logo=PHP)
 ![Bash](https://img.shields.io/badge/-Bash-000?style=for-the-badge&logo=GNUBash)
 
 ## Technologies I've used
@@ -27,7 +26,7 @@ I'm a full-stack developer from Sweden. 🇸🇪  When I'm not programming, I en
 ### 📚 Current projects and interests
 Some of the things I'm currently working on include: 
 
-- Electron and developing hybrid apps in general
+- Developing hybrid apps with React Native
 - Exploring data structures and algorithms in C
 - Getting AWS certified
 
