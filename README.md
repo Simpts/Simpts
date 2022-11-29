@@ -37,4 +37,4 @@ In the future, I'd love to learn more about:
 
 ### ✉️ Contact
 
-To get in touch, send me an email to my first name at my domain. My domain is simonstark dot dev.
+To get in touch, send me an email to my first name at my domain. My domain is simonstark [dot] dev.
